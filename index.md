@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [<a href="https://www.biorxiv.org/content/10.1101/2021.01.15.426750v1.abstract">Human antibody immune responses are personalized by selective removal of MHC-II peptide epitopes</a>](/sample_page)
-<img src="images/overview.jpg?raw=true"/>
+<img src="images/overview.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
