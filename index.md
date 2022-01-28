@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Large-scale analysis of human antibody responses 
 
 [<a href="https://www.biorxiv.org/content/10.1101/2021.01.15.426750v1.abstract">Human antibody immune responses are personalized by selective removal of MHC-II peptide epitopes</a>](/sample_page)
 <img src="images/overview.png?raw=true"/>
