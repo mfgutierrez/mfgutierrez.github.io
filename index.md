@@ -7,8 +7,6 @@
 [<a href="https://www.biorxiv.org/content/10.1101/2021.01.15.426750v1.abstract">Human antibody immune responses are personalized by selective removal of MHC-II peptide epitopes</a>](/sample_page)
 <img src="images/overview.png?raw=true"/>
 
-\n
-
 In this work, we show that MHC-II peptides present in BCR sequences are deleted during B-cell development. Moreover, this deletion is correlated with isotype-switching and serum secretion which are signatures of T-cell help. Overall, the data suggest that the MHC-II peptide epitope content of BCRs is an important signature that determines the fate of both BCRs and B-cells and shapes humoral immunuty.
 
 
