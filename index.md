@@ -1,11 +1,23 @@
-## Research
+### Research
 
 ---
-
-### Large-scale analysis of human antibody responses 
+### Research on human humoral immunity
+## Large-scale analysis of human antibody responses 
 
 [<a href="https://www.biorxiv.org/content/10.1101/2021.01.15.426750v1.abstract">Human antibody immune responses are personalized by selective removal of MHC-II peptide epitopes</a>](/sample_page)
 <img src="images/overview.png?raw=true"/>
+
+\n
+
+In this work, we show that MHC-II peptides present in BCR sequences are deleted during B-cell development. Moreover, this deletion is correlated with isotype-switching and serum secretion which are signatures of T-cell help. Overall, the data suggest that the MHC-II peptide epitope content of BCRs is an important signature that determines the fate of both BCRs and B-cells and shapes humoral immunuty.
+
+
+### Research on antibody engineering and expression optimization
+
+## Optimization of scFv expression in E.coli.
+
+[<a href="https://www.nature.com/articles/s41598-019-53200-7">Optimization of culture conditions for the expression of three different insoluble proteins in Escherichia coli</a>](/sample_page)
+<img src="images/coli.png?raw=true"/>
 
 ---
 ### Latest publications (<a href="https://scholar.google.com/citations?user=Ql1QDlIAAAAJ&hl=en">See full list</a>)
