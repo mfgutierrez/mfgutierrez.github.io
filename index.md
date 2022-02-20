@@ -18,7 +18,7 @@
 ---
 ### Latest publications (<a href="https://scholar.google.com/citations?user=Ql1QDlIAAAAJ&hl=en">See full list</a>)
 
-1.Ahmed S. Fahad<span>&#42;</span>, Cheng Yu Chung<span>&#42;</span>, Sheila N. Lopez Acevedo, Nicoleen Boyle, Bharat Madan, <b>Matias F. Gutiérrez-González</b>, Rodrigo Matus-Nicodemos, Amy D. Laflin, Rukmini R. Ladi, John Zhou, Jacy Wolfe, Sian Llewellyn-Lacey, Daniel C. Douek, Henry H. Balfour Jr., David A. Price, Brandon J. DeKosky. <font color="blue">Immortalization and Functional Screening of Natively Paired Human T Cell Receptor Repertoires</font>.Accepted at peds, January 2022.
+1.Ahmed S. Fahad<span>&#42;</span>, Cheng Yu Chung<span>&#42;</span>, Sheila N. Lopez Acevedo, Nicoleen Boyle, Bharat Madan, <b>Matias F. Gutiérrez-González</b>, Rodrigo Matus-Nicodemos, Amy D. Laflin, Rukmini R. Ladi, John Zhou, Jacy Wolfe, Sian Llewellyn-Lacey, Daniel C. Douek, Henry H. Balfour Jr., David A. Price, Brandon J. DeKosky. <font color="blue">Immortalization and Functional Screening of Natively Paired Human T Cell Receptor Repertoires</font>.Protein Engineering, Design, and Selection, Volume 35, 2022, gzab034, https://doi.org/10.1093/protein/gzab034.
 
 2.Chung C-Y, <b>Gutiérrez-González M</b>, López Acevedo SN, Fahad AS, DeKosky BJ, <font color="blue">The AIRR Community Guide to Quality Control: Chain Pairing Precision and Monitoring of Cross-Sample Contamination</font>.Methods in Molecular Biology: The AIRR Community Guide, In press, Oct 2021.
 
