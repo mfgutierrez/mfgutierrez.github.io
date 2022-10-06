@@ -58,16 +58,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Matias Gutierrez-Gonzalez"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Postdoctoral fellow @ Ragon Institute of MGH, MIT and Harvard."
   links:
-    - label: "Website"
+    - label: "Ragon Institute"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://ragoninstitute.org/"
+    - label: "DeKosky Lab"
+      icon: "fas fa-fw fa-link"
+      url: "https://dekoskylab.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
