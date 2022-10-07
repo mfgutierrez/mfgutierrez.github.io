@@ -61,6 +61,7 @@ author:
   name   : "Matias Gutierrez-Gonzalez"
   avatar : "/assets/images/Headshot.png"
   bio    : "Postdoctoral fellow @ Ragon Institute of MGH, MIT and Harvard."
+  location : "Cambridge, USA"
   links:
     - label: "Ragon Institute"
       icon: "fas fa-fw fa-link"
