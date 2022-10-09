@@ -72,9 +72,7 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=Ql1QDlIAAAAJ&hl=en"
-    - label: "E-mail"
-      icon: "fas fa-fw fa-envelope"
-      url: "matiasgu@mit.edu"
+    
 
 
 
