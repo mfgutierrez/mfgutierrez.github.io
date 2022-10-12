@@ -62,6 +62,7 @@ author:
   avatar : "/assets/images/Headshot.png"
   bio    : "Postdoctoral fellow @ Ragon Institute of MGH, MIT and Harvard."
   location : "Cambridge, USA"
+  <a href="mailto:matiasgu@mit.edu">contact me</a>
   links:
     - label: "Ragon Institute"
       icon: "fas fa-fw fa-link"
