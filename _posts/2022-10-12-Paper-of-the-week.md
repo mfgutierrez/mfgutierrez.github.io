@@ -1,5 +1,5 @@
 ---
-title: "First post!"
+title: "First paper of the week"
 date: 2022-10-12T15:57:30-04:00
 categories:
   - blog
